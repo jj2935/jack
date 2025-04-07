@@ -1,8 +1,8 @@
-// PROJECT  :JumpHeightTracker
+// PROJECT  :Jump Height Tracker
 // PURPOSE  :To calculate the height of a persons vertical jump through an acceleromter
 // COURSE   :ICS3U-E2
 // AUTHOR   :Jack Smith
-// DATE     :2025 04 05
+// DATE     :2025 04 06
 // MCU      :328P (Nano)
 // STATUS   :Working
 // REFERENCE: https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/#google_vignette
